@@ -66,5 +66,13 @@ After analysing the simulated output,
 (iv)Write your inference.
 
 ## Simulation
+<img width="1280" height="441" alt="image" src="https://github.com/user-attachments/assets/15b341d6-0900-4a78-967f-7c3e68e27782" />
 ## Output
+<img width="1280" height="598" alt="image" src="https://github.com/user-attachments/assets/843b75d0-6506-46bb-bc5b-1f6eeef2fcea" />
+at 2 ohm
+<img width="1280" height="600" alt="image" src="https://github.com/user-attachments/assets/5770e3a7-00a6-49bc-b0e7-5b2c640e62a2" />
+at firing angle 290 degree
+<img width="1280" height="590" alt="image" src="https://github.com/user-attachments/assets/c9824f64-cf63-4efd-bc03-7dcc8383e9fd" />
+
 ## Result
+design, simulate and analyse a full wave rectifier controlled by thyristors using MATLAB Simulink is verified
